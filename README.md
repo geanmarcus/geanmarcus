@@ -8,3 +8,20 @@
 
 <h2><strong>A prática leva a PERFEIÇÃO !!!</strong> 💪</h2> 
 
+<h2><strong>Por enquanto estou aprendendo:</strong></h2>
+
+<ul>
+  <li>
+    <strong>HTML</strong>
+    <ion-icon name="logo-html5"></ion-icon>
+  </li>
+  <li>
+    <strong>CSS</strong>
+  </li>
+  <li>
+    <strong>JavaScript</strong>
+  </li>
+  <li>
+    <strong>
+  </li>
+</ul>
