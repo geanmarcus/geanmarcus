@@ -13,7 +13,6 @@
 <ul>
   <li>
     <strong>HTML</strong>
-    <ion-icon name="logo-html5"></ion-icon>
   </li>
   <li>
     <strong>CSS</strong>
@@ -22,6 +21,9 @@
     <strong>JavaScript</strong>
   </li>
   <li>
-    <strong>
+    <strong>NextJs<strong>
   </li>
+    <li>
+      <strong>TailWind</strong>
+    </li>
 </ul>
